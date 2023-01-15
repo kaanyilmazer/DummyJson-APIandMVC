@@ -1,0 +1,12 @@
+C:\Users\sude_\source\repos\DummyShop\DummyShop.Service\bin\Debug\net7.0\DummyShop.Service.deps.json
+C:\Users\sude_\source\repos\DummyShop\DummyShop.Service\bin\Debug\net7.0\DummyShop.Service.dll
+C:\Users\sude_\source\repos\DummyShop\DummyShop.Service\bin\Debug\net7.0\DummyShop.Service.pdb
+C:\Users\sude_\source\repos\DummyShop\DummyShop.Service\obj\Debug\net7.0\DummyShop.Service.csproj.AssemblyReference.cache
+C:\Users\sude_\source\repos\DummyShop\DummyShop.Service\obj\Debug\net7.0\DummyShop.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sude_\source\repos\DummyShop\DummyShop.Service\obj\Debug\net7.0\DummyShop.Service.AssemblyInfoInputs.cache
+C:\Users\sude_\source\repos\DummyShop\DummyShop.Service\obj\Debug\net7.0\DummyShop.Service.AssemblyInfo.cs
+C:\Users\sude_\source\repos\DummyShop\DummyShop.Service\obj\Debug\net7.0\DummyShop.Service.csproj.CoreCompileInputs.cache
+C:\Users\sude_\source\repos\DummyShop\DummyShop.Service\obj\Debug\net7.0\DummyShop.Service.dll
+C:\Users\sude_\source\repos\DummyShop\DummyShop.Service\obj\Debug\net7.0\refint\DummyShop.Service.dll
+C:\Users\sude_\source\repos\DummyShop\DummyShop.Service\obj\Debug\net7.0\DummyShop.Service.pdb
+C:\Users\sude_\source\repos\DummyShop\DummyShop.Service\obj\Debug\net7.0\ref\DummyShop.Service.dll

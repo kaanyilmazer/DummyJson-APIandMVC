@@ -1,0 +1,49 @@
+﻿@using DummyShop.Service.ViewModel;
+@model RootViewModel
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<div class="row ">
+    <div class="col-12 grid-margin">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Proje Listesi</h4>
+                <div class="table-responsive">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th> # </th>
+                                <th> Ana Görsel </th>
+                                <th> Ürün Adı </th>
+                                <th> Fiyat </th>
+                                <th> Ürün Puanı </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model.products)
+                            {
+                                <tr>
+                                    <td>
+                                        @item.id
+                                    </td>
+                                    <td><img src="@item.thumbnail" /></td>
+                                    <td> @item.title </td>
+                                    <td>$@item.price </td>
+                                    <td>@item.rating</td>
+                                    <td>
+                                    <td> <a href="/ProductController/Deleted/@item.id" class="btn btn-outline-danger">Sil</a></td>
+                                    <td> <a href="/AdminProduct/AddProduct/@item.id" class="btn btn-outline-success">Güncelle</a></td>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

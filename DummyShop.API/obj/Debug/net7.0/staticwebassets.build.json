@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NO1BLkjTbWX4f4NL/FUtj2ssebwrnp2UdmfcFbt6ELI=",
+  "Source": "DummyShop.API",
+  "BasePath": "_content/DummyShop.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
